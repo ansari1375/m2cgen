@@ -54,6 +54,7 @@ SUPPORTED_MODELS = {
     "sklearn_NuSVR": SklearnSVMModelAssembler,
     "sklearn_OneClassSVM": SklearnSVMModelAssembler,
     "sklearn_SVC": SklearnSVMModelAssembler,
+    'sklearnex_SVC': SklearnSVMModelAssembler,
     "sklearn_SVR": SklearnSVMModelAssembler,
 
     # Lightning SVM
